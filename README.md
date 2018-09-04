@@ -1,8 +1,8 @@
 # ILovePet-2
 
-# Integrantes do grupo:
+Integrantes do grupo:
 
-# Jonathas Assunção
-# Josué Gomes   
-# Lucio Flavio 
-# Rafael Cabral
+ Jonathas Assunção
+ Josué Gomes   
+ Lucio Flavio 
+ Rafael Cabral
