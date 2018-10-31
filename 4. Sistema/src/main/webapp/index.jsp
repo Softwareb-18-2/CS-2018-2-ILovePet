@@ -1,3 +1,4 @@
+<%@page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +35,7 @@
 
                     
                         
-                        <a class="navbar-caption" href="../index.html">iLovePet</a>
+                        <a class="navbar-caption" href="/ilovepet">iLovePet</a>
                     
 
                 </div>
@@ -46,7 +47,7 @@
 
                     <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link mbr-editable-menu-item" href="index.html#header3-k">ENTENDA    </a></li><li class="nav-item"><a class="nav-link link mbr-editable-menu-item" href="index.html#pricing-table2-f">CUSTO</a></li>
 
-                  <li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="admin/entrar/cadastrar.html"><span></span>CADASTRE-SE</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="admin/entrar/login.html"><span ></span>LOGIN</a></li>
+                  <li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="/ilovepet/Cadastrar"><span></span>CADASTRE-SE</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="/ilovepet/Entrar"><span ></span>LOGIN</a></li>
 
                     </ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
@@ -420,7 +421,7 @@
             <div class="col-md-8 col-md-offset-2 text-xs-center">
                 <h3 class="mbr-section-title display-2">COMECE AGORA SEU LOVE</h3>
                 
-                <div><a class="btn btn-black" href="admin/entrar/login.html">LOGIN</a> <a class="btn btn-black" href="admin/entrar/cadastrar.html">CADASTRE-SE</a></div>
+                <div><a class="btn btn-black" href="/ilovepet/Entrar">LOGIN</a> <a class="btn btn-black" href="/ilovepet/Cadastrar">CADASTRE-SE</a></div>
             </div>
         </div>
     </div>
